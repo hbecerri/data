@@ -15,5 +15,17 @@
     "WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8": 51.7533785761312,
     "WW_TuneCP5_13TeV-pythia8": 0.5792360930008751,
     "WZ_TuneCP5_13TeV-pythia8": 0.42414345160500194,
-    "ZZ_TuneCP5_13TeV-pythia8": 0.3662043226271187
+    "ZZ_TuneCP5_13TeV-pythia8": 0.3662043226271187,
+    "TTToSemiLeptonic_hdampUP_TuneCP5_13TeV-powheg-pythia8": 0.0026959110576569435,
+    "TTTo2L2Nu_hdampUP_TuneCP5_13TeV-powheg-pythia8": 0.013898837061831074,
+    "TTToSemiLeptonic_hdampDOWN_TuneCP5_13TeV-powheg-pythia8": 0.0027987894472587143,
+    "TTTo2L2Nu_hdampDOWN_TuneCP5_13TeV-powheg-pythia8": 0.013393822050747349,
+    "TTToSemiLeptonic_TuneCP5up_13TeV-powheg-pythia8": 0.0026976027485580557,
+    "TTTo2L2Nu_TuneCP5up_13TeV-powheg-pythia8": 0.01342482740899844,
+    "TTToSemiLeptonic_TuneCP5down_13TeV-powheg-pythia8": 0.0035397356216025915,
+    "TTTo2L2Nu_TuneCP5down_13TeV-powheg-pythia8": 0.014755859580921512,
+    "TTToSemiLeptonic_mtop173p5_TuneCP5_13TeV-powheg-pythia8": 0.0031183761580749216,
+    "TTTo2L2Nu_mtop173p5_TuneCP5_13TeV-powheg-pythia8": 0.01310626616895431,
+    "TTToSemiLeptonic_mtop171p5_TuneCP5_13TeV-powheg-pythia8": 0.0028234621340673307,
+    "TTTo2L2Nu_mtop171p5_TuneCP5_13TeV-powheg-pythia8": 0.012088527296797933
 }
